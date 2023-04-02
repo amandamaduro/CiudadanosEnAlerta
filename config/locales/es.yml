@@ -1,0 +1,25 @@
+es:
+  decidim:
+    assemblies:
+      assembly_navigation:
+        assembly_menu_item: El Barrio
+    participatory_spaces:
+      highlighted_proposals:
+        see_all: Ver todas las alertas (%{count})
+    proposals:
+      proposals:
+        count:
+          proposals_count:
+            one: '%{count} alerta'
+            other: '%{count} alertas'
+        index:
+          new_proposal: Nueva Alerta
+          view_proposal: Ver Alerta
+          click_here: Ver todas las alertas
+          see_all: Ver todas las alertas
+        actions:
+          show: Ver Alerta
+        proposal:
+          view_proposal: Ver Alerta
+        orders:
+          label: 'Ordenar alertas por:'

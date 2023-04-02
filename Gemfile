@@ -10,6 +10,9 @@ gem "decidim", "0.27.2"
 # gem "decidim-elections", "0.27.2"
 # gem "decidim-initiatives", "0.27.2"
 # gem "decidim-templates", "0.27.2"
+gem "decidim-blogs"
+
+gem "decidim-term_customizer", git: 'https://github.com/coditramuntana/decidim-module-term_customizer'
 
 gem "bootsnap", "~> 1.3"
 
